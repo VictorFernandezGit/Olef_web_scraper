@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[87]:
-
-
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -66,50 +63,13 @@ combined_dataframe = scrape_products_for_brands(brands, num_pages)
 print(combined_dataframe)
 
 
-# In[90]:
-
 
 combined_dataframe
 
 
-# In[96]:
 
 
 combined_dataframe.to_excel('ole_florida_scrape.xlsx', index=False)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
