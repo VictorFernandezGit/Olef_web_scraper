@@ -5,7 +5,7 @@ A very basic web scraper that first scraps the brands page listed here
 https://olefloridaflyshop.com/shop-by-brand/
 
 The scrape is then saved to a list to which is passed to the scrape products for brands function where it iterates through the brands and a set number of pages using HTTP GET requests.
-
+finally it is then saved to a dataframe using pandas then exported to an xlsx format.
 
 ## Authors
 
