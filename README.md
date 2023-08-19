@@ -19,7 +19,7 @@ https://imgur.com/M29Tbs1
 https://imgur.com/zAL4k7y
 
 https://imgur.com/WmFF1WJ
-## 🛠 Skills Used
+## 🛠 Languages Used
 Python3
 
 
